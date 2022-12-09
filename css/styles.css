@@ -7,5 +7,9 @@
 .photoame {
     float: left;
     margin-right: 35px;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
+}
+
+*{
+    box-sizing: border-box;
 }
