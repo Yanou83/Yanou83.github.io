@@ -13,3 +13,12 @@
 *{
     box-sizing: border-box;
 }
+
+#amelia {
+    margin-right: 10px;
+    float: left;
+}
+
+.jumbotron {
+    padding-bottom: 32px;
+}
