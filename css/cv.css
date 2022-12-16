@@ -287,6 +287,21 @@ body {
     background-position: 0 0px;
 }
 
+/******************************************
+* Passions
+******************************************/
+#langues .container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#langues .langue, #langues .niveau{
+    font-size: 1.3em;
+}
+#langues .langue {
+    padding-top: 3px;
+}
+
 
 
 
