@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="C:|Users|yann.montenot|Documents|MonPortfolioSIO|var|cache|remotefiles|c407863cca5b7ecdbb4757e2f475640f.js">
+        <attr name="remote.url" stringvalue="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"/>
+    </fileobject>
+    <fileobject name="C:|Users|yann.montenot|Documents|MonPortfolioSIO|var|cache|remotefiles|cff276076075408b2a3fcb2054648bee.css">
+        <attr name="remote.url" stringvalue="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
+    </fileobject>
+    <fileobject name="C:|Users|yann.montenot|Documents|MonPortfolioSIO|var|cache|remotefiles|d22add943ba8419b6478a89ae86b99ef.js">
+        <attr name="remote.url" stringvalue="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"/>
+    </fileobject>
+    <fileobject name="C:|Users|yann.montenot|Documents|MonPortfolioSIO|var|cache|remotefiles|e56c66305aef9ceda5a0f90401644385.css">
+        <attr name="remote.url" stringvalue="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"/>
+    </fileobject>
+</attributes>
