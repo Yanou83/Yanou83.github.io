@@ -213,7 +213,8 @@ body {
     margin-top: 3px;
     font-size: 1.5em;
     font-weight: 700;
-    justify-content: space-between;
+    justify-content: center;
+    align-content: center;
 }
 .contact-icon {
     filter: grayscale(1);
