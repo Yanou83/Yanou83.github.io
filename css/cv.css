@@ -239,21 +239,6 @@ body {
 }
 
 /******************************************
-* Langues
-******************************************/
-#langues .container {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-}
-#langues .langue, #langues .niveau{
-    font-size: 1.3em;
-}
-#langues .langue {
-    padding-top: 3px;
-}
-
-/******************************************
 * Compétences
 ******************************************/
 #competences .container {
@@ -291,18 +276,26 @@ body {
 /******************************************
 * Passions
 ******************************************/
-#langues .container {
+#passions .container {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
 }
-#langues .langue, #langues .niveau{
+#passions .container .libelle {
     font-size: 1.3em;
 }
-#langues .langue {
-    padding-top: 3px;
-}
 
+/******************************************
+* Aptitudes
+******************************************/
+#Aptitudes .container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#Aptitudes .container .libelle {
+    font-size: 1.3em;
+}
 
 
 
